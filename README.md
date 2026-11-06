@@ -13,12 +13,8 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;
-    <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-6F42C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:zayyan.mihsan@gmail.com">
+      <img src="https://img.shields.io/badge/Email-zayyan.mihsan%40gmail.com-6F42C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -77,12 +73,14 @@ A showcase of software projects I have developed across web, mobile, desktop, an
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Web UNSU** | University admission website featuring online student registration and secure user authentication. | `Laravel` `PHP` `MySQL` | [Repository ↗](https://github.com/Zayy09/web-unsu) |
-| **AyumaCare** | Mother and child health monitoring application designed to support healthcare tracking and record management. | `Flutter` `Dart` | [Repository ↗](https://github.com/Zayy09/ayumacare) |
-| **Binova** | Android-based waste management application supporting structured waste monitoring and collection workflows. | `Android` `Mobile` | [Repository ↗](https://github.com/Zayy09/binova) |
-| **Medical Record Application** | Desktop software engineered for managing patient profiles, clinical visits, and medical records. | `Java` `MySQL` | [Repository ↗](https://github.com/Zayy09/medical-record-app) |
-| **Todo List Application** | Task management application providing secure user authentication and clean JSON API endpoints. | `Laravel` `PHP` `MySQL` `REST API` | [Repository ↗](https://github.com/Zayy09/todo-list-app) |
-| **Fire Detection IoT System** | Automated fire safety system utilizing ESP32, flame sensors, an LCD status display, and automatic sprinkler actuation. | `ESP32` `C/C++` `IoT Sensors` | [Repository ↗](https://github.com/Zayy09/fire-detection-iot) |
+| **Website PMB UNSU** | Web penerimaan mahasiswa baru Universitas Negeri Sukun: informasi prodi, beasiswa, jadwal, alur, dan formulir pendaftaran. | `Laravel` `Blade` `PHP` `MySQL` | [Repository ↗](https://github.com/Zayy09/web-unsu) |
+| **Sistem Informasi Stok Apotek** | Sistem pengelolaan inventaris apotek mencakup manajemen obat, supplier, stok masuk/keluar, dan pemantauan kedaluwarsa. | `Laravel` `PHP` `MySQL` `Bootstrap` | [Repository ↗](https://github.com/Zayy09/sistem-stok-apotek) |
+| **Aplikasi Rekam Medis** | Aplikasi desktop yang dibangun untuk manajemen data pasien dan pencatatan riwayat rekam medis. | `Java` `MySQL` | [Repository ↗](https://github.com/Zayy09/aplikasi-rekam-medis) |
+| **Aplikasi Todo List** | Aplikasi task management dengan validasi input, proteksi route, autentikasi pengguna, dan RESTful JSON API. | `Laravel` `PHP` `MySQL` `REST API` | [Repository ↗](https://github.com/Zayy09/todo-list-app) |
+| **Aplikasi Mobile Flutter** | Aplikasi Android dengan implementasi antarmuka responsif, manajemen state, pengujian, dan proses build APK. | `Flutter` `Dart` `Android` | [Repository ↗](https://github.com/Zayy09/flutter-mobile-app) |
+| **Sistem Pendeteksi Api IoT** | Prototipe sistem keselamatan dengan sensor api flame detection, notifikasi layar LCD, dan rancangan penyemprotan air otomatis. | `ESP32` `C/C++` `Flame Sensor` `LCD` | [Repository ↗](https://github.com/Zayy09/sistem-deteksi-api-iot) |
+| **Thermogun IoT** | Perangkat pengukur suhu tubuh non-kontak berbasis mikrokontroler dengan sensor inframerah dan display OLED. | `ESP32` `MLX90614` `OLED` `C/C++` | [Repository ↗](https://github.com/Zayy09/thermogun-iot) |
+| **KolorEase** | Konsep aplikasi Android untuk pencatatan kalori harian, rekomendasi makanan, dan pelacakan progres kesehatan. | `Android App Concept` `Figma` | [Repository ↗](https://github.com/Zayy09/kolorease) |
 
 > *Note: Repository links above use placeholder paths. Please update them with your actual GitHub repository URLs.*
 
@@ -92,17 +90,9 @@ A showcase of software projects I have developed across web, mobile, desktop, an
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Zayy09&show_icons=true&theme=tokyonight&hide_border=true" alt="Zayyan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zayy09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Zayyan's GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zayy09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zayy09&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zayy09&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="95%" />
+  <img src="https://streak-stats.demolab.com/?user=Zayy09&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 
 </div>
 
@@ -112,9 +102,8 @@ A showcase of software projects I have developed across web, mobile, desktop, an
 
 If you would like to connect, discuss software development, or explore collaboration opportunities:
 
-- **GitHub**: [@Zayy09](https://github.com/Zayy09)
-- **LinkedIn**: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin) *(Placeholder)*
-- **Email**: [your.email@example.com](mailto:your.email@example.com) *(Placeholder)*
+- 💻 **GitHub**: [@Zayy09](https://github.com/Zayy09)
+- ✉️ **Email**: [zayyan.mihsan@gmail.com](mailto:zayyan.mihsan@gmail.com)
 
 ---
 
