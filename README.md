@@ -90,9 +90,9 @@ A showcase of software projects I have developed across web, mobile, desktop, an
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Zayy09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Zayyan's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zayy09&theme=tokyonight" alt="Zayyan's GitHub Stats" height="195" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Zayy09&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Zayy09&theme=tokyonight&hide_border=true" alt="Contribution Streak" height="195" />
 
 </div>
 
